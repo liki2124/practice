@@ -4,7 +4,7 @@ public class Sum {
 	public static void main(String[] args)
 	{
 		//abcd
-		//a=10,b=20;
+		//a=10,b=20,c=10;
 		//abcde
 		int sum =0;
 		for(int i =0;i<=10;i++)
